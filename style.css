@@ -42,10 +42,12 @@ h2 {
     position: relative;
 }
 
+
 .form-control label {
     color: #777;
     display: block;
-    margin-boom: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
 }
 
 .form-control input {
@@ -53,7 +55,7 @@ h2 {
     border-radius: 4px;
     display: block;
     width: 100%;
-    padding: 10px;
+    padding: 20px;
     font-size: 14px;
 }
 
